@@ -1,0 +1,29 @@
+body {
+    background-color: #3867D6;
+    color: white;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .input-text, .output-text {
+    width: 45vw;
+    height: 70vh;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+  }
+  
+  .input-text {
+    border: 3px solid rgb(92, 86, 86);
+    background-color: #3867D6;
+    outline: none;
+  }
+  
+  .output-text {
+    background-color: #464646;
+    box-shadow: 5px 5px 20px black;
+  }
+  
